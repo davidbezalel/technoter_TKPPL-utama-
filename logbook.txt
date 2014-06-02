@@ -1,0 +1,53 @@
+=======================
+INFORMASI UMUM
+
+Nama kelompok: Technoter
+Judul Topik: E-Blue, The Real Software
+Alamat Github: https://github.com/davidbezalel/technoter_TKPPL-utama-
+Alamat Trello: https://trello.com/b/so2HBkKa/technoter-board
+
+Anggota 1:
+	Nama: David Bezalel Laoli
+	NIM: 121113401
+
+Anggota 2:
+	Nama: Janward Alfredo Situmorang
+	NIM: 121111311
+
+Anggota 3:
+	Nama: Johan Mardo Hutabarat
+	NIM: 121112023
+
+Anggota 4:
+	Nama: Prama Elly Daeli
+	NIM: 121111290
+=======================
+
+
+SPRINT
+------
+Sprint 1: 
+2/6 - 5/6
+Scrummaster: David Bezalel Laoli (121113401)
+Pengumpulan Requirements
+
+
+Sprint 2:
+
+
+Sprint 3: 
+
+
+Progress Harian (Diupdate tiap hari)
+------------------------------------
+
+2/6 
+Daily Scrum
+(Janward):
+1. Hari ini buat system requirements secara garis besar
+
+(Johan):
+1. Hari ini buat user requirements secara garis besar
+
+(Prama):
+1. Hari ini buat functional requirements secara garis besar
