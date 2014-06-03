@@ -29,7 +29,9 @@ SPRINT
 Sprint 1: 
 2/6 - 5/6
 Scrummaster: David Bezalel Laoli (121113401)
-Pengumpulan Requirements
+Pengumpulan user Requirements
+Pengumpulan system Requirements
+Pengumpulan functional Requirements
 
 
 Sprint 2:
@@ -39,10 +41,12 @@ Sprint 3:
 
 
 Progress Harian (Diupdate tiap hari)
-------------------------------------
-
-2/6 
+===================================
+ 
 Daily Scrum
+
+------------------------------------------------------------
+2/6
 (Janward):
 1. Hari ini buat system requirements secara garis besar
 
@@ -51,3 +55,17 @@ Daily Scrum
 
 (Prama):
 1. Hari ini buat functional requirements secara garis besar
+------------------------------------------------------------
+3/6
+(Janward):
+1. Semalam karena belum sempat buat garis besar system requirements, jadi hari ini wajib selesai dua tugas sekaligus.
+2. Hari ini, kerjain Garis Besar sama Detailnya.
+
+(Johan):
+1. Semalam uda  selesai ngerjain garis besar.
+2. Hari ini ngerjain detail dari user requirements.
+
+(Prama):
+1. Semalam uda selesai ngerjain garis besar.
+2. Harin ini ngerjain functional requirements.
+------------------------------------------------------------
