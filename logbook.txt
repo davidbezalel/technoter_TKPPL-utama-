@@ -69,3 +69,19 @@ Daily Scrum
 1. Semalam uda selesai ngerjain garis besar.
 2. Harin ini ngerjain functional requirements.
 ------------------------------------------------------------
+4/6
+(Janward):
+1. Semalam saya ngerjain garis besar sama detailnya, saya simpan di file system requirements.docx.
+2. Hari ini saya masukin semua ke index.jade.
+3. Semalam kesulitannya adalah bingung mau ngedit detailnya dimana, trus masih agak nge-heng soal alur kerja di git nya.
+
+(Johan):
+1. Semalam ngerjain detailnya, dan digabungin ke file user requirements.docx.
+2. Hari ini masukin semuanya ke index.jade.
+3. Semalam nemu bug di alur kerja sebelum commit.
+
+(Prama):
+1. Semalam ngerjain detail juga, sama kayak yang lain. Digabungin di functional requirements.doccx
+2. Hari ini masukin ke index.jade juga.
+3. Semalam kesulitannya, lupa nge-commit sebelum ngepull, akhirnya file yang uda ke-edit keganti samaa file yang dipull dari repo utama.
+-------------------------------------------------------------
