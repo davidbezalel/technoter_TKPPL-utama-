@@ -35,6 +35,10 @@ Pengumpulan functional Requirements
 
 
 Sprint 2:
+Scrummaster : Johan Mardo Hutabarat (121112023)
+pengerjaan Prototype tampilan awal
+pengerjaan prototype tampilan menu
+pengerjaan diagram Alur Kerja
 
 
 Sprint 3: 
@@ -43,7 +47,7 @@ Sprint 3:
 Progress Harian (Diupdate tiap hari)
 ===================================
  
-Daily Scrum
+Daily Scrum 1
 
 ------------------------------------------------------------
 2/6
@@ -85,3 +89,16 @@ Daily Scrum
 2. Hari ini masukin ke index.jade juga.
 3. Semalam kesulitannya, lupa nge-commit sebelum ngepull, akhirnya file yang uda ke-edit keganti samaa file yang dipull dari repo utama.
 -------------------------------------------------------------
+
+Daily Scrum 2
+-------------------------------------------------------------
+05-06-2014
+
+(janward) :
+1.Hari ini mengerjakan Prototype tampilan awal
+
+(Prama) :
+1.Hari ini  mengerjakan prototype dari tampilan menu
+
+(David) :
+1.Hari ini mengerjakan Diagram Alur Kerja
