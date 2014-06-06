@@ -101,4 +101,21 @@ Daily Scrum 2
 1.Hari ini  mengerjakan prototype dari tampilan menu
 
 (David) :
-1.Hari ini mengerjakan Diagram Alur Kerja
+1.Hari ini mengerjakan System Engineering
+
+--------------------------------------------------------------
+06-06-2014
+
+(Janward)
+1.Hari ini melanjutkan pengerjaan Prototype tampilan awal
+2.Semalam kesulitannya, mengirim pull request ke scrum master yang baru.
+
+(Prama)
+1.hari ini melanjutkan pengerjaan Prototype dari tampilan menu.
+2.Semalam kesulitannya, pengiriman pull request.
+
+(David)
+1.Hari melanjutkan pengerjaan System Engineering.
+2.semalam kesulitannya, salah mengirimkan pull request.
+
+-------------------------------------------------------------
