@@ -119,3 +119,12 @@ Daily Scrum 2
 2.semalam kesulitannya, salah mengirimkan pull request.
 
 -------------------------------------------------------------
+07-06-2014
+(janward)
+1.Hari ini memasukan Prototype Tampilan Awal ke dalam index.jade
+
+(Parama)
+1.Hari ini memasukan Prototypa Tampilan Menu ke dalam index.jade
+
+(David)
+1.Hari ini memasukan System Engineering kedalam index.jade
