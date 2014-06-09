@@ -42,7 +42,9 @@ pengerjaan diagram Alur Kerja
 
 
 Sprint 3: 
-
+Scrummaster : Prama Elly Daeli (121111290)
+Rekomendasi jenis slide yang digunakan pada index.jade
+Memperindah tampilan slide index.jade
 
 Progress Harian (Diupdate tiap hari)
 ===================================
@@ -123,8 +125,24 @@ Daily Scrum 2
 (janward)
 1.Hari ini memasukan Prototype Tampilan Awal ke dalam index.jade
 
-(Parama)
+(Prama)
 1.Hari ini memasukan Prototypa Tampilan Menu ke dalam index.jade
 
 (David)
 1.Hari ini memasukan System Engineering kedalam index.jade
+
+-------------------------------------------------------------
+
+Daily Scrum 3
+-------------------------------------------------------------
+09-06-2014
+(David)
+1.Hari ini merecomendasi jenis slide untuk index.jade
+
+(janward)
+1.Hari ini merecomendasi jenis slide untuk index.jade
+
+(Johan)
+1.Hari ini merecomendasi jenis slide untuk index.jade
+
+-------------------------------------------------------------
