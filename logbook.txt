@@ -137,12 +137,12 @@ Daily Scrum 3
 -------------------------------------------------------------
 09-06-2014
 (David)
-1.Hari ini merecomendasi jenis slide untuk index.jade
+1.Hari ini Mencari jenis slide untuk index.jade
 
 (janward)
-1.Hari ini merecomendasi jenis slide untuk index.jade
+1.Hari ini Mencari jenis slide untuk index.jade
 
 (Johan)
-1.Hari ini merecomendasi jenis slide untuk index.jade
+1.Hari ini Mencari jenis slide untuk index.jade
 
 -------------------------------------------------------------
