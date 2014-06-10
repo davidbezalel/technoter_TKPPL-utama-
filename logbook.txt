@@ -43,6 +43,7 @@ pengerjaan diagram Alur Kerja
 
 Sprint 3: 
 Scrummaster : Prama Elly Daeli (121111290)
+Mencoba berexperiment menggunakan percabangan
 Rekomendasi jenis slide yang digunakan pada index.jade
 Memperindah tampilan slide index.jade
 
@@ -144,5 +145,16 @@ Daily Scrum 3
 
 (Johan)
 1.Hari ini Mencari jenis slide untuk index.jade
+
+-------------------------------------------------------------
+10-06-2014
+(David)
+1.Hari ini mencoba berexperimen menggunakan branch
+
+(Jandward)
+1.Hari ini mencoba berexperimen menggunakan branch
+
+(Johan)
+1.Hari ini mencoba berexperimen menggunakan branch
 
 -------------------------------------------------------------
