@@ -151,10 +151,19 @@ Daily Scrum 3
 (David)
 1.Hari ini mencoba berexperimen menggunakan branch
 
-(Jandward)
+(Janward)
 1.Hari ini mencoba berexperimen menggunakan branch
 
 (Johan)
 1.Hari ini mencoba berexperimen menggunakan branch
 
 -------------------------------------------------------------
+11-06-2014
+(David)
+1. Membuat Branch secara permanen di dalam repositori
+
+(Janward)
+1. Membuat Branch secara permanen di dalam repositori
+
+(Johan)
+1. Membuat Branch secara permanen di dalam repositori
