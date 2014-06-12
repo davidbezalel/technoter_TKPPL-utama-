@@ -1,0 +1,177 @@
+======================================================================================
+INFORMASI UMUM
+
+Nama kelompok: Technoter
+Judul Topik: E-Blue, The Real Software
+Alamat Github: https://github.com/davidbezalel/technoter_TKPPL-utama-
+Alamat Trello: https://trello.com/b/so2HBkKa/technoter-board
+
+Anggota 1:
+	Nama: David Bezalel Laoli
+	NIM: 12_111_3401
+
+Anggota 2:
+	Nama: Janward Alfredo Situmorang
+	NIM: 12_111_1311
+
+Anggota 3:
+	Nama: Johan Mardo Hutabarat
+	NIM: 12_111_2023
+
+Anggota 4:
+	Nama: Prama Elly Daeli
+	NIM: 12_111_1290
+======================================================================================
+
+
+SPRINT
+------
+Sprint 1: 
+2/6 - 5/6
+Scrummaster: David Bezalel Laoli (12_111_3401)
+ -Pengumpulan user Requirements
+ -Pengumpulan system Requirements
+ -Pengumpulan functional Requirements
+
+
+Sprint 2:
+Scrummaster : Johan Mardo Hutabarat (12_111_2023)
+ -pengerjaan Prototype tampilan awal
+ -pengerjaan prototype tampilan menu
+ -pengerjaan diagram Alur Kerja
+
+
+Sprint 3: 
+Scrummaster : Prama Elly Daeli (12_111_1290)
+ -Mencoba berexperiment menggunakan percabangan
+ -Rekomendasi jenis slide yang digunakan pada index.jade
+ -Memperindah tampilan slide index.jade
+
+Sprint 4:
+Scrummaster : Janward Alfredo (12_111_1311)
+ -Mengubah slide dengan memanfaatkan percabangan sebelum update ke repo utama
+ -Merapikan code yang ada di index.jade serta isi folder utama
+ -Mengubah thema slide (optional)
+Progress Harian (Diupdate tiap hari)
+=====================================================================================
+ 
+Daily Scrum 1
+
+-------------------------------------------------------------------------------------
+2/6
+(Janward):
+1. Hari ini buat system requirements secara garis besar
+
+(Johan):
+1. Hari ini buat user requirements secara garis besar
+
+(Prama):
+1. Hari ini buat functional requirements secara garis besar
+-------------------------------------------------------------------------------------
+3/6
+(Janward):
+1. Semalam karena belum sempat buat garis besar system requirements, jadi hari ini wajib selesai dua tugas sekaligus.
+2. Hari ini, kerjain Garis Besar sama Detailnya.
+
+(Johan):
+1. Semalam uda  selesai ngerjain garis besar.
+2. Hari ini ngerjain detail dari user requirements.
+
+(Prama):
+1. Semalam uda selesai ngerjain garis besar.
+2. Harin ini ngerjain functional requirements.
+-------------------------------------------------------------------------------------
+4/6
+(Janward):
+1. Semalam saya ngerjain garis besar sama detailnya, saya simpan di file system requirements.docx.
+2. Hari ini saya masukin semua ke index.jade.
+3. Semalam kesulitannya adalah bingung mau ngedit detailnya dimana, trus masih agak nge-heng soal alur kerja di git nya.
+
+(Johan):
+1. Semalam ngerjain detailnya, dan digabungin ke file user requirements.docx.
+2. Hari ini masukin semuanya ke index.jade.
+3. Semalam nemu bug di alur kerja sebelum commit.
+
+(Prama):
+1. Semalam ngerjain detail juga, sama kayak yang lain. Digabungin di functional requirements.doccx
+2. Hari ini masukin ke index.jade juga.
+3. Semalam kesulitannya, lupa nge-commit sebelum ngepull, akhirnya file yang uda ke-edit keganti samaa file yang dipull dari repo utama.
+-------------------------------------------------------------------------------------
+
+
+
+Daily Scrum 2
+-------------------------------------------------------------------------------------
+05-06-2014
+
+(janward) :
+1.Hari ini mengerjakan Prototype tampilan awal
+
+(Prama) :
+1.Hari ini  mengerjakan prototype dari tampilan menu
+
+(David) :
+1.Hari ini mengerjakan System Engineering
+
+-------------------------------------------------------------------------------------
+06-06-2014
+
+(Janward)
+1.Hari ini melanjutkan pengerjaan Prototype tampilan awal
+2.Semalam kesulitannya, mengirim pull request ke scrum master yang baru.
+
+(Prama)
+1.hari ini melanjutkan pengerjaan Prototype dari tampilan menu.
+2.Semalam kesulitannya, pengiriman pull request.
+
+(David)
+1.Hari melanjutkan pengerjaan System Engineering.
+2.semalam kesulitannya, salah mengirimkan pull request.
+
+-------------------------------------------------------------------------------------
+07-06-2014
+(janward)
+1.Hari ini memasukan Prototype Tampilan Awal ke dalam index.jade
+
+(Prama)
+1.Hari ini memasukan Prototypa Tampilan Menu ke dalam index.jade
+
+(David)
+1.Hari ini memasukan System Engineering kedalam index.jade
+
+-------------------------------------------------------------------------------------
+
+
+
+Daily Scrum 3
+-------------------------------------------------------------------------------------
+09-06-2014
+(David)
+1.Hari ini Mencari jenis slide untuk index.jade
+
+(janward)
+1.Hari ini Mencari jenis slide untuk index.jade
+
+(Johan)
+1.Hari ini Mencari jenis slide untuk index.jade
+
+-------------------------------------------------------------------------------------
+10-06-2014
+(David)
+1.Hari ini mencoba berexperimen menggunakan branch
+
+(Janward)
+1.Hari ini mencoba berexperimen menggunakan branch
+-------------------------------------------------------------------------------------
+
+
+
+Daily Scrum 4
+-------------------------------------------------------------------------------------
+12-06-2014
+(David)
+1.Mengubah slide dengan memanfaatkan percabangan sebelum update ke repo utama
+
+(Johan & Prama)
+1.Mengubah slide dengan memanfaatkan percabangan sebelum update ke repo utama
+-------------------------------------------------------------------------------------
