@@ -174,4 +174,18 @@ Daily Scrum 4
 
 (Johan & Prama)
 1.Mengubah slide dengan memanfaatkan percabangan sebelum update ke repo utama
+
+-------------------------------------------------------------------------------------
+13-06-2014
+(David)
+1.Memasukkan hasil eksperimen ke dalam server mengatasnamakan branch cabang
+  masing
+
+(Johan)
+1.Memasukkan hasil eksperimen ke dalam server mengatasnamakan branch cabang
+  masing
+
+(Prama)
+1.Memasukkan hasil eksperimen ke dalam server mengatasnamakan branch cabang
+  masing
 -------------------------------------------------------------------------------------
